@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @designingwithwaste
 - 👀 I’m interested in experimental design for sustainability
-- 🌱 I’m currently learning industrial design and am set to gbasket weaving + expanding my knowledge of design theory.
+- 🌱 I’m currently learning basket weaving + expanding my knowledge of design theory. In a few months I'll be graduating with an MDes in Industrial Design.
 - 💞️ I’m looking to collaborate on experimental design projects.
 - 📫 How to reach me ... @designingwithwaste on Instagram
 
