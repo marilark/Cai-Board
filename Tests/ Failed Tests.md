@@ -1,3 +1,6 @@
+This document is a ecord of failed experiments.
+[Record all failures here, move all failed experiments from the main Tests document to this document, or only move specific failed experiments here]
+
 # Test 1
 [example text between brackets, replace it with your own text]
 
