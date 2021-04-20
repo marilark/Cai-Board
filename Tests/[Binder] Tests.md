@@ -1,4 +1,4 @@
-This document keeps track of test that have been conducted. 
+This document keeps track of test that have been conducted where the change in variable involved the [binder]. 
 [Record tests in this document, link to an external document where you keep your tests (such as a google drive spreadsheet), or copy notable tests here while keeping an external document with all your tests]
 
 # Test 1
