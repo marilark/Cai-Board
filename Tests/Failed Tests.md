@@ -3,6 +3,7 @@ This document is a ecord of failed experiments.
 
 # Test 1
 [example text between brackets, replace it with your own text]
+Date: [Jan 30, 2021 or 30 Jan 2021]
 
 ### Main Takeaways
 
