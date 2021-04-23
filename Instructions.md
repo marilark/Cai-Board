@@ -1,4 +1,4 @@
-# Name/Material Title: 
+# [Name/Material Title]: 
 [example text will appear between brackets]
 
 ### Purpose of Material
