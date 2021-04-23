@@ -1,4 +1,4 @@
-# Type of Problem 1
+# [Type of Problem 1]
 [example text in bracket, replace with your own text]
 
 ### [Not Drying Fast Enough]
@@ -11,7 +11,7 @@
   - [Turn up the heat]
   - [Use a space heater]
 
-# Type of Problem 2
+# [Type of Problem 2]
 [example text in bracket, replace with your own text]
 
 ### [Not Drying Fast Enough]
