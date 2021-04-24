@@ -16,16 +16,16 @@ The easiest way to use this repository is to look through the documentation here
 
 **Here is a list of translations, from GitHub programming speak to design and making speak:**
 - Repository = works similarly (but more robustly) to a collaborative folder or drive on Google Drive or Office 365, where the main content is presented in documents and anyone who has access to the folder or drive can speak to other users through comments and suggestions
-- Clone = copy
+- Clone = a copy of a repository that exists separately from the original repository, the clone is not linked to the original and you cannot pull down changes from the original to your clone
 - Branch = a repository is made up of branches that, like on a tree, branch off from one another
-- Main Branch = the original branch (analogous to the trunk of tree)of a repository
-- Fork = the act of cloning a GitHub repository in order to make a new branch, changes made to clones will not affect the original repository or branch from which the new branch was forked/cloned, new branches are linked to the previous branches in the repository
+- Main Branch = the original branch of a repository (analogous to the trunk of tree)
+- Fork = the act of cloning a GitHub repository in order to make a new branch, changes made to clones will not affect the original repository or branch from which the new branch was forked/cloned, new branches are linked to the previous branches in the repository, forking instead of cloning means that you will be able to send pull requests to the original branch
 
 **Here is some information about the basic tabs and buttons found in GitHub:**
 - Code = the tab in a GitHub repository where a programmer normally stores their code, but where we will store our materials recipes
 - Pull Requests = a request to update the documentation/information in a branch, requests are made by users like you when they have a suggestion that they would like to see reflected in a branch’s documentation, the term pull request is used because the creator of the branch pulls the requested change into the branch
 - Discussions = the tab in a GitHub repository where you can chat with others about the branch’s contents, the information in discussions is not meant to be pulled into the branch’s documentation, but can be a great place to discuss possible changes, ask questions, share what you’re working on, and send the branch’s creator some appreciation for their work
-- Actions = the actions tab shows a list of all the major things that have happened in a branch, such as pull requests that were accepted
+- Actions = the actions tab shows a list of all the major things that have happened in a branch, such as pull requests that have been accepted
 
 ### How to find information in the GitHub repository
 
@@ -42,15 +42,16 @@ The “Failed Tests” file is important because many breakthroughs have been ma
 Learn how to use GitHub by following tutorials and seeing how the information in this repository is organized:
 
 - [The GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github) will walk you through the basics of using GitHub. Its focus is on coding. 
-- [Create a Pull Requests](https://docs.github.com/en/rest/reference/pulls#create-a-pull-request)
+- [Create a pull request](https://docs.github.com/en/rest/reference/pulls#create-a-pull-request)
 - [How to edit files in a repository](https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)
 - [How to add a folder to a in a repository](https://github.community/t/add-a-folder/2304)
+- [How to fork a repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [The Markdown guide](https://www.markdownguide.org/)
 - [Markdown demo](http://markdown-it.github.io/), where you can practice typing in markdown 
 
 When in a document, look at the upper right corner of the document (not the screen). Click the “raw” button to see the markdown coding. 
 
-In this repository, headers H1, H3, and H4 are used, along with bolding and italicizing text. The visual difference between H1 and H2 headers is not very obvious, which is why H2 headers tend to not get used. Bolding text is used as a header before lists, such as ingredients lists. Bolded text is also used to indicate waste materials in ingredients lists. Italicized text is used to indicate materials that have been altered in tests. Bolded italicized text in a test document indicates a material that is a waste material that has been altered. For example, 2c pasta water means that pasta water is a waste material and it has been altered in some way, such as the amount added differing from the original recipe. Follow these formatting conventions to help users identify useful information at a glance.
+In this repository, headers H1, H3, and H4 are used, along with bolding and italicizing text. The visual difference between H1 and H2 headers is not very obvious, which is why H2 headers are not used. Bolding text is used as a header before lists, such as ingredients lists. Bolded text is also used to indicate waste materials in ingredients lists. Italicized text is used to indicate materials that have been altered in tests. Bolded italicized text in a test document indicates a material that is a waste material that has been altered. For example, 2c pasta water that has been bolded and italicized means that pasta water is a waste material and it has been altered in some way, such as the amount added differing from the original recipe. Follow these formatting conventions to help users identify useful information at a glance.
 
 
 Now go forth, have fun, and be respectful!
