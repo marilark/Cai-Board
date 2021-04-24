@@ -42,6 +42,7 @@ The “Failed Tests” file is important because many breakthroughs have been ma
 Learn how to use GitHub by following tutorials and seeing how the information in this repository is organized:
 
 - [The GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github) will walk you through the basics of using GitHub. Its focus is on coding. 
+- [Create a Pull Requests](https://docs.github.com/en/rest/reference/pulls#create-a-pull-request)
 - [How to edit files in a repository](https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)
 - [How to add a folder to a in a repository](https://github.community/t/add-a-folder/2304)
 - [The Markdown guide](https://www.markdownguide.org/)
