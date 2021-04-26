@@ -19,21 +19,21 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 
 **GitHub can display images in the following formats: PNG, JPG, GIF, PSD, and SVG**
 
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolderGitHub1.png)
+![screenshot illustrating steps 1 and 2](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddImages/HowToAddFolderGitHub1.png)
 
-![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder3.gif)
+![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddImages/HowToAddFolder3.gif)
 
-![screenshot illustrating step 2](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder5.png)
+![screenshot illustrating step 5](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddImages/HowToAddFolder5.png)
 
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/How%20To%20Add%20Folder%20GitHub6.png)
+![screenshot illustrating steps 6 and 7](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddImages/How%20To%20Add%20Folder%20GitHub6.png)
 
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/How%20To%20Add%20Folder%20GitHub8.png)
+![screenshot illustrating step 8](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddImages/How%20To%20Add%20Folder%20GitHub8.png)
 
 ### Linking your Images
 
 1. Open your desired file and click the edit icon. Images will only appear in markdown files (files that end in ".md".
 2. Enter the following code in your desired location: ![alt text that will appear to screenreaders](URL for your image)
 
-**Ex:** `![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder3.gif)`
+**Ex:** `![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddImages/HowToAddFolder3.gif)`
 
 **Tip:** Remember that you can always click on the "Raw" button in this or any other GitHub document to see the markdown code for the document. This will let you see how that document was created. In this case, that means you will see how image files were added to the document.
