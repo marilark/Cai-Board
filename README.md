@@ -50,9 +50,9 @@ Learn how to use GitHub by following tutorials and seeing how the information in
 - [The GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github) will walk you through the basics of using GitHub. Its focus is on coding. 
 - [Create a pull request](https://docs.github.com/en/rest/reference/pulls#create-a-pull-request)
 - [How to edit files in a repository](https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)
-- [How to add a folder to a in a repository](https://github.community/t/add-a-folder/2304)
-- [How to fork a repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [How to add images and folders to a repository](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddImages/AddingImages.md)
 - [The Markdown guide](https://www.markdownguide.org/)
+- [How to fork a repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Markdown demo](http://markdown-it.github.io/), where you can practice typing in markdown 
 
 When in a document, look at the upper right corner of the document (not the screen). Click the “raw” button to see the markdown coding. 
