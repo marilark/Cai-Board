@@ -8,16 +8,6 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 
 ### Creating a Folder
 
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolderGitHub1.png)
-
-![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder3.gif)
-
-![screenshot illustrating step 2](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder5.png)
-
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/How%20To%20Add%20Folder%20GitHub6.png)
-
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/How%20To%20Add%20Folder%20GitHub8.png)
-
 1. Click on "Add file".
 2. Click on "New file".
 3. In the file path, type in the name of your new folder. It should end with "/". Ex: "NewFolder/".
@@ -28,6 +18,16 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 8. Drag and drop your files into the browser or click on "choose your files" to add your photos.
 
 **GitHub can display images in the following formats: PNG, JPG, GIF, PSD, and SVG**
+
+![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolderGitHub1.png)
+
+![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder3.gif)
+
+![screenshot illustrating step 2](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder5.png)
+
+![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/How%20To%20Add%20Folder%20GitHub6.png)
+
+![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/How%20To%20Add%20Folder%20GitHub8.png)
 
 ### Linking your Images
 
