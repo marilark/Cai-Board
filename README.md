@@ -1,4 +1,4 @@
-![banner image that says, "Build upon community knowledge. Create materials for ccircular economies."](docs/images/ReadMeBanner.png)
+![banner image that says, "Build upon community knowledge. Create materials for circular economies."](GettingStarted/images/ReadMeBanner.png)
 
 # Welcome to the Designing With Waste Repository! 
 
