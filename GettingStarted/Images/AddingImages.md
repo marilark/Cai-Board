@@ -8,19 +8,16 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 
 ### Creating a Folder
 
-![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolderGitHub1.png)
 1. Click on "Add file".
 
-![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+![screenshot illustrating step 2](GettingStarted/Images/HowToAddFolderGitHub1.png)
 
 2. Click on "New file".
 
-![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder.gif)
 
 3. In the file path, type in the name of your new folder. It should end with "/". Ex: "NewFolder/".
-
-![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
-
 4. As soon as you type the backslash, the folder will become part of the file path and you will see a new textbox where you can add a new file. Type in a file name and click "Commit" at teh bottom of the page. You can delete this blank file later if you choose.
 
 ![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
@@ -40,8 +37,8 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 ### Linking your Images
 
 1. Open your desired file and click the edit icon. Images will only appear in markdown files (files that end in ".md".
-2. Enter the following code in your desired location: ![alt text that will appear to screenreaders](the file path for your image)
+2. Enter the following code in your desired location: ![alt text that will appear to screenreaders](URL for your image)
 
-**Ex:** GettingStarted/Images/HowToAddFolder.gif
+**Ex:** `![gif illustrating steps 3 and 4](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder.gif)`
 
 **Tip:** Remember that you can always click on the "Raw" button in this or any other GitHub document to see the markdown code for the document. This will let you see how that document was created. In this case, that means you will see how image files were added to the document.
