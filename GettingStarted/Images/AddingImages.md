@@ -8,7 +8,7 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 
 ### Creating a Folder
 
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/AddFolder1.png)
+![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolderGitHub1.png)
 1. Click on "Add file".
 2. Click on "New file".
 
@@ -17,16 +17,16 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 3. In the file path, type in the name of your new folder. It should end with "/". Ex: "NewFolder/".
 4. As soon as you type the backslash, the folder will become part of the file path and you will see a new textbox where you can add a new file. Type in a file name.
 
-![screenshot illustrating step 2](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/AddFolder5.png)
+![screenshot illustrating step 2](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder5.png)
 
 5. Click "Commit" at the bottom of the page. You can delete this blank file later if you choose.
 
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/AddFolder6.png)
+![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/HowToAddFolder5.png)
 
 6. In the new folder, click "Add File".
 7. Click on "Upload files".
 
-![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/AddFolder8.png)
+![screenshot illustrating step 1](https://github.com/designingwithwaste/designingwithwaste/blob/main/GettingStarted/Images/How%20To%20Add%20Folder%20GitHub8.png)
 
 8. Drag and drop your files into the browser or click on "choose your files" to add your photos.
 
