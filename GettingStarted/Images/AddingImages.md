@@ -8,12 +8,31 @@ Adding images to a GitHub repository is a lot like adding images to an Adobe doc
 
 ### Creating a Folder
 
+![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
 1. Click on "Add file".
+
+![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+
 2. Click on "New file".
+
+![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+
 3. In the file path, type in the name of your new folder. It should end with "/". Ex: "NewFolder/".
+
+![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+
 4. As soon as you type the backslash, the folder will become part of the file path and you will see a new textbox where you can add a new file. Type in a file name and click "Commit" at teh bottom of the page. You can delete this blank file later if you choose.
+
+![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+
 5. In the new folder, click "Add File".
+
+![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+
 6. Click on "Upload files".
+
+![screenshot illustrating step 1](GettingStarted/Images/HowToAddFolderGitHub1.png)
+
 7. Drag and drop your files into the browser or click on "choose your files" to add your photos.
 
 **GitHub can display images in the following formats: PNG, JPG, GIF, PSD, and SVG**
