@@ -1,14 +1,16 @@
+![banner image that says, "Build upon community knowledge. Create materials for ccircular economies."](docs/images/ReadMeBanner.png)
+
 # Welcome to the Designing With Waste Repository! 
 
 **In this repository you will find:**
 - open source/creative commons licensed resources for making things using waste materials
 - materials to help you get started engaging in circular economies
-- free material recipes
+- free recipes for creating materials
 - troubleshooting guides
 - lists of failed experiments
 - a group of makers dedicated to collaborating on and making materials that help us lessen our negative environmental impact
 
-This repository welcomes anyone who is interested in using waste materials to create new materials. The purpose is to foster collaboration so that together we can come up with solutions to overconsumption and disposability. Design can’t save the world by itself, but since design touches on so many aspects of the human experience, it can make an impact. As designers and makers of all stripes, we must strive to work more responsibly, to lower our negative impact on the planet. Regenerative and planet-centric design coupled with circular economies is a way to go about doing that. By working together on these issues, we can create more thoughtful change. So please, feel free to lurk here, but also know that you’re always welcome to leave a comment, ask questions, and you’re especially welcome to contribute to the recipes in this repository. Test them out, make suggestions on recipe improvements, clone the recipes and make them your own, clone this template and contribute your own recipes. Let’s make change together. 
+This repository welcomes anyone who is interested in using waste materials to create new materials. The purpose is to foster collaboration so that together we can come up with solutions to overconsumption and disposability. Design can’t save the world by itself, but since design touches on so many aspects of the human experience, it can make an impact. As designers and makers of all stripes, we must strive to work more responsibly, to lower our negative impact on the planet. Reducing our consumption of virgin materials while helping waste materials find new lives is a way to go about doing that. By working together on these issues, we can create more thoughtful change. So please, feel free to lurk here, but also know that you’re always welcome to leave a comment, ask questions, and you’re especially welcome to contribute to the recipes in this repository. Test them out, make suggestions on recipe improvements, clone the recipes and make them your own, clone this template and contribute your own recipes. Let’s make change together. 
 
 ### How to use the Designing With Waste GitHub Repository
 
