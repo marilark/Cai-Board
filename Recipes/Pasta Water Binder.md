@@ -8,7 +8,7 @@ Many Cai Board recipes use virgin materials. Making it with pasta water means th
 #### Pros:
 Cai Board: cheaper, reduces plastic consumption and the amount of paper and plastic that gets thrown into landfills, you won't be breathing in as many microplastics
 
-Cai Board made form pasta water: compared to other binders, pasta water can produce a harder board. This means that while it will produce less tearout, it will also be much harder to sculpt by hand. If making Cai Board with pasta water, it may be best to sculpt it with power tools.
+Cai Board made from pasta water: compared to other binders, pasta water can produce a harder board. This means that while it will produce less tearout, it will also be much harder to sculpt by hand. If making Cai Board with pasta water, it may be best to sculpt it with power tools.
 
 #### Cons: 
 It's heavier than a lot of modeling foams and can't be cut on a hot wire.
