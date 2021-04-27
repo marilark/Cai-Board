@@ -1,4 +1,4 @@
-# Cai Board: 
+# Cai Board: Kuzu Binder
 
 ### Purpose of Material
 Cai Board is a paper-based modeling material that can replace extruded polystyrene foam.
