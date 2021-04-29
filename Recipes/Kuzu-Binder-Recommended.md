@@ -11,6 +11,12 @@ Cai Board made from kuzu: compared to other binders, kuzu can produce better res
 #### Cons: 
 It's heavier than a lot of modeling foams and can't be cut on a hot wire.
 
+#### Sourcing the Waste Material(s): 
+This recipe uses waste paper, which is readily and easily available- junk mail is a great source. Just make sure you remove any staples, tape, or plastic-based glues.
+
+#### Potential Safety Issues: 
+Like with all materials that produce dust, such as wood and foam, make sure you always wear a dust mask or resporator when carving your board.
+
 ---
 
 ### Recipe
