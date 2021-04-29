@@ -13,6 +13,12 @@ Cai Board made from pasta water: compared to other binders, pasta water can prod
 #### Cons: 
 It's heavier than a lot of modeling foams and can't be cut on a hot wire.
 
+#### Sourcing the Waste Material(s): 
+This recipe uses waste paper, which is readily and easily available- junk mail is a great source. Just make sure you remove any staples, tape, or plastic-based glues. It also uses leftover pasta water, so how much pasta you make will limit how much board you make. You can save your pasta water in the fridge to build up a store over a couple of days, and you can dilute your water to make it go farter. Recycling the water you squeeze out of your pulp into new batches can also help you increase your Cai Board batch size.
+
+#### Potential Safety Issues: 
+Like with all materials that produce dust, such as wood and foam, make sure you always wear a dust mask or resporator when carving your board. Keep in mind that if you use binders like pasta water made from wheat pasta, some people may have allergic reactions to your material.
+
 ---
 
 ### Recipe
